@@ -26,7 +26,6 @@ To transition from foundational programming to deploying scalable **Machine Lear
 ---
 
 ### 📊 Let's Connect!
-- **LinkedIn:** [Insert your LinkedIn Link here]
-- **Portfolio:** [Link to your Web Dev project once hosted]
+- **LinkedIn:** linkedin.com/in/nadin-krishnasamy-b39802328
 
 > "The best way to predict the future is to build it."
