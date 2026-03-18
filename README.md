@@ -29,5 +29,5 @@ I am an Artificial Intelligence & Machine Learning undergraduate focused on buil
 
 ### 📊 GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadin-krishnasamy&show_icons=true&theme=transparent&hide_border=true" alt="Nadin's Stats" width="400" />
+  <img src="./profile/stats.svg" alt="My GitHub Stats" />
 </p>
