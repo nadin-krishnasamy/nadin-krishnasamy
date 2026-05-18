@@ -29,5 +29,5 @@ I am an Artificial Intelligence & Machine Learning undergraduate focused on buil
 
 ### 📊 GitHub Metrics
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=nadin-krishnasamy&count_private=true&include_all_commits=true" alt="My GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=nadin-krishnasamy&count_private=true&include_all_commits=true&theme=transparent" alt="My GitHub Stats" />
 </p>
