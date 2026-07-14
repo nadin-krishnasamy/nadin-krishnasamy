@@ -6,7 +6,7 @@
   </p>
 
   <p align="center">
-    <a href="www.linkedin.com/in/nadin-krishnasamy-b39802328"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href=www.linkedin.com/in/nadin-krishnasamy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:nadinkrishnasamy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
